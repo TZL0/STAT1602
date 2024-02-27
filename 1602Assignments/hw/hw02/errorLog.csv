@@ -1,0 +1,14 @@
+0,SyntaxError,"'(' was never closed (2614290592.py, line 3)",0,,2024-02-02 17:03:55.190411
+1,SyntaxError,"invalid syntax (2891475898.py, line 1)",0,,2024-02-02 17:05:20.970178
+2,SyntaxError,"invalid syntax (2891475898.py, line 1)",0,,2024-02-02 17:05:26.300274
+3,AttributeError,'Table' object has no attribute 'shape',0,,2024-02-02 17:05:31.647586
+4,AttributeError,'Table' object has no attribute 'shape',0,,2024-02-02 17:06:00.109626
+5,AttributeError,'Table' object has no attribute 'shape',0,,2024-02-02 17:11:57.212052
+6,AttributeError,'Table' object has no attribute 'shape',0,,2024-02-02 17:12:11.543847
+7,AttributeError,'Table' object has no attribute 'shape',0,,2024-02-02 17:12:49.274512
+8,ValueError,"The column ""count"" is not in the table. The table contains these columns: box ID, fruit name, count sold, price per fruit ($)",0,,2024-02-02 17:12:56.182442
+9,AttributeError,'Table' object has no attribute 'shape',0,,2024-02-02 17:13:36.472867
+10,AttributeError,type object 'Table' has no attribute 'create',0,,2024-02-02 17:14:07.271981
+11,TypeError,"Use Table().with_columns() to create a new table,                 not Table.with_columns()",0,,2024-02-02 17:14:26.825952
+12,AttributeError,'Table' object has no attribute 'shape',0,,2024-02-02 17:14:37.247544
+13,AttributeError,'Table' object has no attribute 'shape',0,,2024-02-02 17:15:25.290177

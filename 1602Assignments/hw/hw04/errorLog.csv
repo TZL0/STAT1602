@@ -1,0 +1,30 @@
+0,AttributeError,module 'numpy' has no attribute 'join',0,,2024-02-24 15:04:21.546845
+1,ValueError,"label ""Location"" not in labels ('Name', 'Menu_Item', 'Cost')",0,,2024-02-24 15:05:12.293999
+2,ValueError,"label ""Burrito"" not in labels ('Name', 'Menu_Item', 'Cost', 'Yelp', 'Google', 'Overall')",0,,2024-02-24 15:15:38.768133
+3,ValueError,"label ""Burrito"" not in labels ('Name', 'Menu_Item', 'Cost', 'Yelp', 'Google', 'Overall')",0,,2024-02-24 15:19:43.074608
+4,ValueError,"label ""Manu_Item"" not in labels ('Name', 'Menu_Item', 'Cost', 'Yelp', 'Google', 'Overall')",0,,2024-02-24 15:20:49.020419
+5,ValueError,"label ""Burrito"" not in labels ('Name', 'Menu_Item', 'Cost', 'Yelp', 'Google', 'Overall')",0,,2024-02-24 15:20:56.307254
+6,ValueError,"label ""Burrito"" not in labels ('Name', 'Menu_Item', 'Cost', 'Yelp', 'Google', 'Overall')",0,,2024-02-24 15:21:06.354525
+7,ValueError,"The column ""Burrito"" is not in the table. The table contains these columns: Menu_Item, Name mean, Cost mean, Yelp mean, Google mean, Overall mean",0,,2024-02-24 15:21:28.870547
+8,AttributeError,'Table' object has no attribute 'shape',0,,2024-02-24 15:21:39.927738
+9,ValueError,"label ""Location"" not in labels ('Name', 'Menu_Item', 'Cost', 'Yelp', 'Google', 'Overall')",0,,2024-02-24 15:22:53.773593
+10,AttributeError,'Table' object has no attribute 'shape',0,,2024-02-24 21:34:57.219183
+11,SyntaxError,"invalid syntax (721343552.py, line 3)",0,,2024-02-24 21:38:40.789555
+12,AttributeError,'Table' object has no attribute 'shape',0,,2024-02-24 21:38:44.703865
+13,AttributeError,'Table' object has no attribute 'shape',0,,2024-02-24 21:38:58.745796
+14,SyntaxError,"unterminated string literal (detected at line 3) (2917214727.py, line 3)",0,,2024-02-24 21:39:11.878403
+15,ValueError,"The column ""Job array"" is not in the table. The table contains these columns: Organization Group, Job full_array, Department full_array, Total Compensation full_array",0,,2024-02-24 21:54:10.058146
+16,ValueError,"The column ""Job"" is not in the table. The table contains these columns: Organization Group, Job full_array, Department full_array, Total Compensation full_array",0,,2024-02-24 21:55:31.312360
+17,AttributeError,'Table' object has no attribute 'shape',0,,2024-02-24 21:56:31.380818
+18,TypeError,values requires collect to be specified,0,,2024-02-24 22:00:39.208630
+19,ValueError,Column length mismatch. New column does not have the same number of rows as table.,0,,2024-02-24 22:01:04.034378
+20,TypeError,values requires collect to be specified,0,,2024-02-24 22:09:02.448737
+21,AttributeError,'Table' object has no attribute 'shape',0,,2024-02-24 22:09:40.799769
+22,ValueError,"The column ""Total Compensation compensation_range"" is not in the table. The table contains these columns: Job, Department, Organization Group, Total Compensation",0,,2024-02-24 22:11:21.982276
+23,ValueError,"The column ""Total Compensation compensation_range"" is not in the table. The table contains these columns: Department, Organization Group, Job full_array, Total Compensation full_array",0,,2024-02-24 22:11:41.742983
+24,ValueError,"The column ""Total Compensation compensation_range"" is not in the table. The table contains these columns: Department, Organization Group, count",0,,2024-02-24 22:12:03.070565
+25,ValueError,"The column ""Total Compensation compensation_range"" is not in the table. The table contains these columns: Job, Department, Organization Group, Total Compensation",0,,2024-02-24 22:12:08.738145
+26,ValueError,"The column ""Organization Group"" is not in the table. The table contains these columns: Department, Job full_array, Organization Group full_array, Total Compensation full_array",0,,2024-02-24 22:13:40.573975
+27,ValueError,"The column ""Organization Group"" is not in the table. The table contains these columns: Department, Job full_array, Organization Group full_array, Total Compensation full_array",0,,2024-02-24 22:15:02.971333
+28,AttributeError,'Table' object has no attribute 'shape',0,,2024-02-24 22:15:23.338540
+29,AttributeError,'Table' object has no attribute 'shape',0,,2024-02-24 22:16:13.112958

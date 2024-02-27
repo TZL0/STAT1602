@@ -1,0 +1,4 @@
+0,AttributeError,'Table' object has no attribute 'shape',0,,2024-02-17 00:21:00.781625
+1,AttributeError,'Table' object has no attribute 'shape',0,,2024-02-17 00:55:23.105006
+2,AttributeError,'Table' object has no attribute 'shape',0,,2024-02-17 00:56:16.913111
+3,ValueError,"The column ""PTER"" is not in the table. The table contains these columns: Date, NEI, NEI-PTER, Year",0,,2024-02-17 00:57:24.284300

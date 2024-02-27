@@ -1,0 +1,22 @@
+0,NameError,name 'factor' is not defined,0,,2024-02-17 00:23:45.021773
+1,TypeError,unsupported operand type(s) for +: 'NoneType' and 'int',0,,2024-02-17 00:25:17.619097
+2,AttributeError,'Table' object has no attribute 'shape',0,,2024-02-17 00:25:24.412023
+4,ValueError,invalid literal for int() with base 10: '53.25 ',0,,2024-02-17 00:27:27.493124
+5,ValueError,invalid literal for int() with base 10: '53.25',0,,2024-02-17 00:27:43.950320
+6,TypeError,'int' object is not callable,0,,2024-02-17 00:29:21.976568
+7,AttributeError,'Table' object has no attribute 'shape',0,,2024-02-17 00:30:40.867301
+8,TypeError,"ufunc 'divide' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''",0,,2024-02-17 00:32:37.742487
+9,AttributeError,'Table' object has no attribute 'column_labels',0,,2024-02-17 00:34:22.021269
+10,AttributeError,'Table' object has no attribute 'shape',0,,2024-02-17 00:34:30.333570
+11,AttributeError,'Table' object has no attribute 'shape',0,,2024-02-17 00:35:53.457810
+12,AttributeError,'Table' object has no attribute 'shape',0,,2024-02-17 00:39:24.154495
+13,ValueError,"label ""2014 Total Pay"" not in labels ('Rank', 'Name', 'Company (Headquarters)', 'Total Pay', '% Change', 'Cash Pay', 'Equity Pay', 'Other Pay', 'Ratio of CEO pay to average industry worker pay', 'Total Pay ($)')",0,,2024-02-17 00:40:50.304300
+14,ValueError,"The column "" % Change"" is not in the table. The table contains these columns: Rank, Name, Company (Headquarters), Total Pay, % Change, Cash Pay, Equity Pay, Other Pay, Ratio of CEO pay to average industry worker pay, Total Pay ($)",0,,2024-02-17 00:41:04.952347
+15,ValueError,"The column ""Change"" is not in the table. The table contains these columns: Rank, Name, Company (Headquarters), Total Pay, % Change, Cash Pay, Equity Pay, Other Pay, Ratio of CEO pay to average industry worker pay, Total Pay ($)",0,,2024-02-17 00:41:23.558386
+16,ValueError,could not convert string to float: '(No previous year)',0,,2024-02-17 00:42:18.915059
+17,ValueError,could not convert string to float: '(No previous year)',0,,2024-02-17 00:42:27.656780
+18,AttributeError,'Table' object has no attribute 'shape',0,,2024-02-17 00:43:02.216533
+19,AttributeError,'Table' object has no attribute 'shape',0,,2024-02-17 00:44:51.699387
+20,NameError,name 'factor' is not defined,0,,2024-02-17 00:45:25.576654
+21,TypeError,unsupported operand type(s) for +: 'NoneType' and 'int',0,,2024-02-17 00:45:26.005858
+23,TypeError,'int' object is not callable,0,,2024-02-17 00:45:26.507548
