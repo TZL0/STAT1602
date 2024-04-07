@@ -1,0 +1,5 @@
+0,AttributeError,'Table' object has no attribute 'shape',0,,2024-04-05 02:50:25.489433
+1,ValueError,"The column ""Percentage"" is not in the table. The table contains these columns: Vote",0,,2024-04-05 02:51:57.614866
+2,AttributeError,'Table' object has no attribute 'shape',0,,2024-04-05 02:52:06.128187
+3,AttributeError,'Table' object has no attribute 'shape',0,,2024-04-05 02:52:46.661755
+4,AttributeError,'Table' object has no attribute 'shape',0,,2024-04-05 23:26:28.515929

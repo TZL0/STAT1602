@@ -1,0 +1,10 @@
+0,AttributeError,'Table' object has no attribute 'shape',0,,2024-03-17 13:04:44.854964
+1,ValueError,The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(),0,,2024-03-17 13:06:04.274302
+2,AttributeError,'numpy.ndarray' object has no attribute 'apply',0,,2024-03-17 13:06:16.916410
+3,AttributeError,'Table' object has no attribute 'shape',0,,2024-03-17 13:06:30.236424
+4,SyntaxError,"'(' was never closed (1888849697.py, line 5)",0,,2024-03-17 13:41:42.645391
+5,SyntaxError,"'(' was never closed (2510426633.py, line 6)",0,,2024-03-17 13:42:58.046240
+6,TypeError,_append_dispatcher() missing 1 required positional argument: 'values',0,,2024-03-17 13:43:01.670940
+7,TypeError,_append_dispatcher() missing 1 required positional argument: 'values',0,,2024-03-17 13:43:10.728855
+8,AttributeError,'numpy.ndarray' object has no attribute 'append',0,,2024-03-17 13:43:23.951849
+9,AttributeError,'numpy.ndarray' object has no attribute 'append',0,,2024-03-17 13:43:27.189990
