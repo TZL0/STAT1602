@@ -1,0 +1,9 @@
+0,AttributeError,'Table' object has no attribute 'shape',0,,2024-04-11 22:52:50.750070
+1,SyntaxError,"incomplete input (3797133852.py, line 2)",0,,2024-04-11 23:06:52.543246
+2,NameError,name 'plt' is not defined,0,,2024-04-11 23:06:55.139426
+3,AttributeError,'Table' object has no attribute 'shape',0,,2024-04-11 23:07:51.660276
+4,SyntaxError,"'(' was never closed (1340304118.py, line 8)",0,,2024-04-11 23:16:53.752841
+5,AttributeError,'Table' object has no attribute 'shape',0,,2024-04-11 23:16:59.463961
+6,AttributeError,'Table' object has no attribute 'shape',0,,2024-04-11 23:18:45.802965
+7,AttributeError,'Table' object has no attribute 'shape',0,,2024-04-11 23:18:53.720327
+8,AttributeError,'ellipsis' object has no attribute 'labels',0,,2024-04-11 23:19:29.700262
